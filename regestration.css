@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    align-items: center;
+    height: auto;
+    margin-left: 200px;
+
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+p{
+  color:white;
+  text-align: center;
+}
+fieldset{
+    border:none;
+    padding: 2rem 0;
+    border-bottom: 3px solid #3b3b4f;
+
+
+}
+label {
+    display: block;
+    margin: 0.2rem 0;
+    color: white;
+
+  }
+  input,
+  textarea,
+  select {
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+  }
+  input[type="submit"] {
+    display: block;
+    width: 1%;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: #3b3b4f;
+    border-color: white;
+    min-width: 300px;
+    color:white
+  }
+.login{
+  
+    font-size: 14px;
+    margin:15px 0;
+    text-align: center;
+}
+.login p{
+  color:white;
+  text-align: center;
+}
+
+
